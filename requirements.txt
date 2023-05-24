@@ -1,7 +1,8 @@
 numpy
 scikit-image
 scipy
-sklearn
+#sklearn
+scikit-learn
 smplx==0.1.28
 tqdm
 yacs
